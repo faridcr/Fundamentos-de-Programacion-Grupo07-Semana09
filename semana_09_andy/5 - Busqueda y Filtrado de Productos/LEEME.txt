@@ -1,0 +1,4 @@
+EJERCICIO 5: Busqueda y Filtrado de Productos
+
+El programa de este ejercicio está en: Ejercicio_05_Busqueda_y_Filtrado_de_Productos.py
+Ábrelo con Python 3, IDLE o Visual Studio Code y ejecútalo.

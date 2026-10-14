@@ -1,0 +1,4 @@
+EJERCICIO 7: Extraccion con Expresiones Regulares
+
+El programa de este ejercicio está en: Ejercicio_07_Extraccion_con_Expresiones_Regulares.py
+Ábrelo con Python 3, IDLE o Visual Studio Code y ejecútalo.

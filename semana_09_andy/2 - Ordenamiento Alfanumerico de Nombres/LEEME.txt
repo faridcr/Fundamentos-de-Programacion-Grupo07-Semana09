@@ -1,0 +1,26 @@
+EJERCICIO 2: ORDENAMIENTO ALFANUMÉRICO DE NOMBRES
+
+Objetivo:
+Mostrar una lista original, ordenarla alfabéticamente sin distinguir entre mayúsculas y minúsculas, y crear otra lista en orden descendente.
+
+Explicación para la exposición:
+“Primero creamos una lista con cinco nombres y mostramos cómo está originalmente. Después usamos sort() para ordenar la lista de la A a la Z. Con key=str.lower hacemos que la comparación ignore las diferencias entre mayúsculas y minúsculas. Finalmente usamos sorted() con reverse=True para crear una nueva lista de la Z a la A. La diferencia es que sort() modifica la lista original, mientras que sorted() devuelve una nueva lista ordenada”.
+
+Resultado esperado:
+1. Lista original:
+['Carlos', 'ana', 'Beatriz', 'david', 'Elena']
+
+2. Lista ordenada alfabéticamente:
+['ana', 'Beatriz', 'Carlos', 'david', 'Elena']
+
+3. Lista ordenada en forma descendente:
+['Elena', 'david', 'Carlos', 'Beatriz', 'ana']
+
+Conceptos clave:
+- sort(): ordena la lista existente.
+- sorted(): devuelve una nueva lista ordenada.
+- key=str.lower: compara los textos en minúsculas.
+- reverse=True: ordena en sentido descendente.
+
+Cómo ejecutar:
+Abre el archivo .py con Python 3, IDLE o Visual Studio Code y ejecútalo.

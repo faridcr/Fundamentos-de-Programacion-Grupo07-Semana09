@@ -1,0 +1,4 @@
+EJERCICIO 4: Diccionario de Estudiantes
+
+El programa de este ejercicio está en: Ejercicio_04_Diccionario_de_Estudiantes.py
+Ábrelo con Python 3, IDLE o Visual Studio Code y ejecútalo.
