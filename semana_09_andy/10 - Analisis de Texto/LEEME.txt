@@ -1,0 +1,4 @@
+EJERCICIO 10: Analisis de Texto
+
+El programa de este ejercicio está en: Ejercicio_10_Analisis_de_Texto.py
+Ábrelo con Python 3, IDLE o Visual Studio Code y ejecútalo.

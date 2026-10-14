@@ -1,0 +1,4 @@
+EJERCICIO 6: Combinacion de Arreglos y Ventas
+
+El programa de este ejercicio está en: Ejercicio_06_Combinacion_de_Arreglos_y_Ventas.py
+Ábrelo con Python 3, IDLE o Visual Studio Code y ejecútalo.
