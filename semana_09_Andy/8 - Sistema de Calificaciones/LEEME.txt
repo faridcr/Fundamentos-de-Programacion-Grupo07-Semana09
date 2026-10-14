@@ -1,0 +1,4 @@
+EJERCICIO 8: Sistema de Calificaciones
+
+El programa de este ejercicio está en: Ejercicio_08_Sistema_de_Calificaciones.py
+Ábrelo con Python 3, IDLE o Visual Studio Code y ejecútalo.
